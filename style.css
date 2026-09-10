@@ -1,1 +1,10 @@
-
+.CenterMap {
+  border: 5px solid #0eb7eb;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+}
+.DivClass1 {
+  border: 5px solid #0eb7eb;
+  border-radius: 10px;
+}
