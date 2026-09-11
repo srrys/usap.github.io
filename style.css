@@ -11,3 +11,9 @@
 body {
   font-family: Tahoma, sans-serif;
 }
+.options {
+  border: 5px solid #d1cfcf;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
