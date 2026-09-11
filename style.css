@@ -13,6 +13,7 @@ body {
 }
 .options {
   border: 5px solid #d1cfcf;
+  border-radius: 7px;
   position: fixed;
   top: 0;
   right: 0;
